@@ -1,8 +1,8 @@
 const { enStem, idStem } = require("../lib/stemmer");
 
 class NaiveBayes {
-  constructor(langCode) {
-    this.langCode = langCode;
+  constructor(languageCode) {
+    this.languageCode = languageCode;
     this.wordsData = {};
     this.labels = {};
     this.frequencyCount = {};
@@ -55,7 +55,7 @@ class NaiveBayes {
   }
 
   _stem(str) {
-    switch (this.langCode) {
+    switch (this.languageCode) {
       case "en":
         return enStem(str);
         break;

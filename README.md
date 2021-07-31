@@ -63,8 +63,8 @@ P | Arab = 2/4 X 1/2 = 0.25
 
 ### Parameters
 
-- **new NaiveBayes(langCode)**
-  - langCode: langCode determines what language used for stemming by the language code. currently **idnaive** supports `id (Indonesia)` and `en (English)`.
+- **new NaiveBayes(languageCode)**
+  - languageCode: languageCode determines what language used for stemming by the language code. currently **idnaive** supports `id (Indonesia)` and `en (English)`.
 
 ### License
 
