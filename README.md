@@ -17,7 +17,7 @@ npm install idnaive
 ### Usage
 
 ```js
-const NaiveBayes = require("./src/naive-bayes.js");
+const NaiveBayes = require("idnaive");
 
 const naiveBayes = new NaiveBayes("en");
 
