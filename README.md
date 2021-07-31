@@ -70,9 +70,14 @@ P | Arab = 2/4 X 1/2 = 0.25
 
 **Idnaive** licensed by [MIT License](./LICENSE.md)
 
+### Contribute
+
+Before contributing, please read the following [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) and [CONTRIBUTING.md](./CONTRIBUTING.md).
+
 ### Credits
 
 Credits to their amazing open source:
 
 - [porter-stemmer](https://github.com/jedp/porter-stemmer)
 - [akarata](https://github.com/ikhsanalatsary/akarata)
+- [contributing-gen-web](https://github.com/bttger/contributing-gen-web)
