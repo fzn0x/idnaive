@@ -1,1 +1,8 @@
 /node_modules
+
+# since this repository using npm
+yarn.lock
+
+# Code Editor and IDE stuff
+/.vscode
+/.idea
