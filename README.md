@@ -6,7 +6,8 @@
 
 ✅ Multilanguage Stemming (Indonesia + English)\
 ✅ Out String Filter\
-✅ Punctuation Filter
+✅ Punctuation Filter\
+✅ Fix Zero-Frequency Problem
 
 ## Installation
 
