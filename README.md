@@ -1,6 +1,6 @@
 ## Idnaive
 
-![idnaive - A Simple Node.js Naive Bayes Library](./idnaive.png)
+![idnaive - A Simple Node.js Naive Bayes Library](./Idnaive.png)
 
 **Idnaive** is A Simple Node.js Naive Bayes Library.
 
