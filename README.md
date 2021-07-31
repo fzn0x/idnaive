@@ -2,8 +2,8 @@
 
 **Idnaive** is A Simple Node.js Naive Bayes Library.
 
-✅ Multilanguage Stemming (Indonesia + English)
-✅ Out String Filter
+✅ Multilanguage Stemming (Indonesia + English)\
+✅ Out String Filter\
 ✅ Punctuation Filter
 
 ## Installation
