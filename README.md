@@ -1,5 +1,7 @@
 ## Idnaive
 
+![idnaive - A Simple Node.js Naive Bayes Library](./idnaive.png)
+
 **Idnaive** is A Simple Node.js Naive Bayes Library.
 
 ✅ Multilanguage Stemming (Indonesia + English)\
