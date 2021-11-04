@@ -1,11 +1,11 @@
 {
   "name": "idnaive",
   "version": "0.0.4",
-  "author": "fauzan121002",
+  "author": "fncolon",
   "license": "MIT",
   "description": "A Simple Node.js Naive Bayes Library.",
   "repository": "fncolon/idnaive",
-  "main": "./src/naive-bayes.js",
+  "main": "./index.js",
   "directories": {
     "lib": "lib",
     "src": "src"
@@ -14,6 +14,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "tslib": "^2.1.0"
+    "tslib": "^2.3.1"
   }
 }
