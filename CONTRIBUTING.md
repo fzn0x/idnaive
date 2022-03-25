@@ -1,6 +1,4 @@
-<!-- omit in toc -->
-
-# Contributing to idnaive
+# Contributing
 
 First off, thanks for taking the time to contribute! ❤️
 
